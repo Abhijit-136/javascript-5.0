@@ -146,3 +146,36 @@ Logical NOT ->
  } else-if(condition){
     statement
  }
+ *home work*
+ 1. print all even numbers from 1 to 100.
+ 2.
+
+
+ # 6.string.js:-
+ -string is a sequences of characters used to represent text.
+ -create a string -> let str="web bocket"
+ -string length->str.length
+ -string indexing->str[0],str[1],str[2...]
+
+
+ template literals in js:-
+ - a way to have embaded expression in string
+ -its denoted on ''.i.e "today is a great day"
+
+ string manipulation:-
+ -to create string by doing substitution of placeholder.
+ -ex-> "string text ${expression} string text"
+
+ escape symbol:-
+ \n - for new line.
+ \t - for inside text.
+
+  string method :-
+ - these are built in function to manipulate a string.
+  1. str.touppercase()
+  2. str.tolowercase()
+  3. str.trim()
+  4. str.slice(start, end)
+  5. str.concat(str2)
+  6. str.replace(searchval, newVal)
+  7. str.chatAt(idx)
