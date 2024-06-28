@@ -179,3 +179,29 @@ Logical NOT ->
   5. str.concat(str2)
   6. str.replace(searchval, newVal)
   7. str.chatAt(idx)
+
+  
+// array in js:-
+- collection of items
+ex -
+let heros =["captain america","i;ronman","spiderman",Deadpool"];
+
+let mark=[89,56,76,23];
+
+let info =["rahul","jeet","89","delhi","90"]
+
+-array index starting from 0.
+ex-arr[0],arr[1],arr[3]....
+
+Looping over the array:
+-print the below element in one by one.
+
+-Let heros=["captain america","i;ronman","spiderman",Deadpool"];
+
+-we will do it through loops.
+
+Pratice question:-
+
+q1.for a given array with marks of students->[85,99,44,37,76,60].find the average of the entire class.
+
+q2.for a given array with prices of 5 items -> [250,645,300,900,50].all itema have an offer of 10% OFF on them.change the array to store final price afterapplying offer.

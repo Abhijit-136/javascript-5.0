@@ -57,6 +57,6 @@
 
 // console.log(str.replace("h","y"));
 
-let str = "Ilovecoding";
-console.log(str.charAt(2));
-console.log(str.chatAt(4));
+// let str = "Ilovecoding";
+// console.log(str.charAt(2));
+// console.log(str.chatAt(4));
